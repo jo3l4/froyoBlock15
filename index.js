@@ -1,4 +1,4 @@
-const input = prompt("Enter froyo flav followed by , pls:");
+const input = prompt("Enter froyo flav followed by , pls:)");
 
 const flavors = input.split(',');
 
